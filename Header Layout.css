@@ -1,0 +1,28 @@
+.header {
+    width: 800px;
+    height: 150px;
+    border: 2px solid black;
+    position: relative;
+}
+.logo {
+    width: 250px;
+    height: 70px;
+    border: 2px solid black;
+    margin: 5px;
+}
+.nav {
+width: 150px;
+height: 30px;
+border: 2px solid black;
+right: 5px;
+top: 5px;
+position: absolute;
+}
+.menu {
+    width: 350px;
+    height: 30px;
+    border: 2px solid black;
+    bottom: 5px;
+    right: 5px;
+    position: absolute;
+}
